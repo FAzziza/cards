@@ -1,6 +1,8 @@
 # Dr. STIS
 Nama Project : Dr.STIS
+
 Tujuan projek : membuat aplikasi bagi pengunjung klinik STIS
+
 Kondisi : 
 - aplikasi digunakan oleh pengunjung yang sudah melakukan pendaftaran
 - dokter dalam aplikasi default karena identitas dokter tidak bisa diubah kecuali izin server
@@ -9,16 +11,17 @@ Kondisi :
 # Deskripsi singkat: Dr.STIS
 Dr.STIS aplikasi reservasi bagi pengunjung klinik. Aplikasi ini memudahkan pengunjung untuk melakukan reservasi kunjungan sehingga, pegawai medis dapat menyusun jadwal mereka. Dr.STIS menyediakan fitur cek jadwal kosong dan reservasi yang pernah dilakukan. Fitur Cek jadwal kosong digunakan untuk melakukan reservasi kunjungan oleh setiap pengunjung. Fitur Reservasi digunakan sebagai monitoring kunjungan yang pernah dilakukan oleh pengunjung tersebut. Pengunjung dapat mengakses kedua fitur dengan melakukan login menggunakan email dan password masing - masing. Jika belum punya akun, pengunjung dapat melakukan registrasi dengan mengisi form registrasi. 
 
-# Daftar isi :untuk lebih lengkapnya [link]
+# Daftar isi :untuk lebih lengkapnya https://github.com/FAzziza/cards/wiki
 
 # Panduan Instalasi :
-Untuk menginstall aplikasi Dr.STIS, dapat mengikuti langkah - langkah berikut:
+Untuk menginstall aplikasi Dr.STIS, dapat mengikuti langkah - langkah berikut(Bagi smartphone yang lain dapat menyesuaikan):
 1. Atur setting pada masing - masing smartphone
-2. 
-3.
-4. Unduh aplikasi melalui [] 
-5. Install aplikasi dan tunggu sampai selesai
-6. Aplikasi dapat digunakan
+2. Masuk "Setting" 
+3. Pilih "Software&Privacy"
+4. Pastikan "Allow to install unknown source apps" aktif
+5. Unduh aplikasi melalui [] 
+6. Install aplikasi dan tunggu sampai selesai
+7. Aplikasi dapat digunakan
 
 # Panduan Singkat Penggunaan :
 ## Panduan Registrasi
