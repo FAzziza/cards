@@ -11,7 +11,8 @@ Kondisi :
 # Deskripsi singkat: Dr.STIS
 Dr.STIS aplikasi reservasi bagi pengunjung klinik. Aplikasi ini memudahkan pengunjung untuk melakukan reservasi kunjungan sehingga, pegawai medis dapat menyusun jadwal mereka. Dr.STIS menyediakan fitur cek jadwal kosong dan reservasi yang pernah dilakukan. Fitur Cek jadwal kosong digunakan untuk melakukan reservasi kunjungan oleh setiap pengunjung. Fitur Reservasi digunakan sebagai monitoring kunjungan yang pernah dilakukan oleh pengunjung tersebut. Pengunjung dapat mengakses kedua fitur dengan melakukan login menggunakan email dan password masing - masing. Jika belum punya akun, pengunjung dapat melakukan registrasi dengan mengisi form registrasi. 
 
-# Daftar isi :untuk lebih lengkapnya https://github.com/FAzziza/cards/wiki
+# Daftar isi
+untuk lebih lengkapnya https://github.com/FAzziza/cards/wiki
 
 # Panduan Instalasi :
 Untuk menginstall aplikasi Dr.STIS, dapat mengikuti langkah - langkah berikut(Bagi smartphone yang lain dapat menyesuaikan):
